@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to",
+    "getStarted": "Get started by editing",
+    "document": "Documentation",
+    "learn": "Learn",
+    "example": "Examples",
+    "deploy": "Deploy",
+    "poweredBy":"Powered by",
+    "documentText": "Find in-depth information about Next.js features and API",
+    "learnText": "Learn about Next.js in an interactive course with quizzes!",
+    "exampleText":"Discover and deploy boilerplate example Next.js projects.",
+    "deplyText": "Instantly deploy your Next.js site to a public URL with Vercel."
+}
